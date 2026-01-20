@@ -1,20 +1,11 @@
 ### Hi there, I'm Shivang Sinha! 👋
 
-I am a **Generative AI Engineer** and **NLP Master's Student** specializing in **Agentic Workflows** and **Large Language Models**.
+I'm a **Generative AI Engineer** and **NLP Master's Student** passionate about building intelligent systems that solve real-world problems. Currently, I'm optimizing developer workflows using Gen AI at **Carl Zeiss Microscopy**.
 
-[cite_start]Currently, I am the **Gen AI Werkstudent** at **Carl Zeiss Microscopy**, where I architect intelligent systems to solve complex real-world problems[cite: 6, 20]. My focus is on **Model Context Protocol (MCP)** integration and **Retrieval-Augmented Generation (RAG)** to drive developer productivity.
-
----
-
-### 🔭 Impact & Highlights
-
-- [cite_start]🧠 **Innovation:** Architecting **OAD Code Completion** tools using **Azure OpenAI** & **Promptflow**[cite: 22].
-- [cite_start]🚀 **Performance:** Successfully increased developer productivity by **25%** and code accuracy by **15%**[cite: 22].
-- [cite_start]🔍 **RAG Optimization:** Enhanced contextual knowledge retrieval accuracy by **30%** through advanced RAG pipelines[cite: 24].
-- [cite_start]🤖 **Automation:** Integrated **MCP Servers** to power automated workflows and chatbots across multiple departments[cite: 25].
-- [cite_start]🎓 **Education:** M.Sc. in Natural Language Processing at **Trier University**[cite: 49].
-
----
+- 🔭 **I’m currently working on:** Retrieval-Augmented Generation (RAG) pipelines and MCP integrations for code completion.
+- 🌱 **I’m currently learning:** Advanced Prompt Engineering & Large Language Model (LLM) fine-tuning.
+- 💼 **Experience:** Ex-Senior Software Developer @ Barclays | Ex-Hexagon CCI.
+- 🎓 **Education:** M.Sc. in Natural Language Processing at **Trier University**.
 
 ### 🛠️ Core Skills & Tech Stack
 
