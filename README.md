@@ -84,6 +84,6 @@ I'm a **Generative AI Engineer** and **NLP Master's Student** passionate about b
 
 ### 📫 Connect with Me
 
-- 🌐 [Portfolio Website](https://www.shivangsinha.website/)
+- 🌐 [Portfolio Website](https://www.shivangsinha.site/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivang-sinha-927550126)
 - 📧 [Email Me](mailto:shivangsinha2@gmail.com)
